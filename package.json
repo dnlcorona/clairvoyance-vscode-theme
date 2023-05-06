@@ -3,6 +3,7 @@
   "displayName": "xyz-theme",
   "description": "A dark theme with modern and simple interface that provides the user a great experience.",
   "version": "0.0.1",
+  "publisher": "dnlcorona",
   "engines": {
     "vscode": "^1.78.0"
   },
