@@ -1,4 +1,4 @@
-# xyz-theme 🔮
+# Clairvoyance Theme 🔮
 
 <h2 align="center">VSCode Dark Theme</h2>
 <div align="center">
@@ -25,10 +25,10 @@ Um tema do Visual Studio Code simples e moderno. Ajustado para melhorar a experi
 1.  Instale o [Visual Studio Code](https://code.visualstudio.com/)
 2.  Abra o Visual Studio Code
 3.  Clique em **Extensions** no menu lateral esquerdo
-4.  Pesquise por `xyz-theme` e selecione este tema na lista de resultados
+4.  Pesquise por `Clairvoyance Theme` e selecione este tema na lista de resultados
 5.  Clique em **Install** para instalar o tema
 6.  Clique em **Reload** para aplicar o tema
-7.  Na barra de menus, clique: Code > Preferences > Color Theme > **xyz-theme**
+7.  Na barra de menus, clique: Code > Preferences > Color Theme > **Clairvoyance Theme**
 
 
 ## Preferências mostradas no preview

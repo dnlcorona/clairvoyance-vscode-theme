@@ -1,21 +1,22 @@
 {
-  "name": "xyz-theme",
-  "displayName": "xyz-theme",
-  "description": "A dark theme with modern and simple interface that provides the user a great experience.",
+  "name": "clairvoyance-theme",
+  "displayName": "Clairvoyance Theme",
+  "description": "A modern and simple dark theme for VS Code that provides the user a great experience.",
   "version": "0.0.3",
   "publisher": "dnlcorona",
   "engines": {
-    "vscode": "^1.77.1"
+    "vscode": "^1.77.0"
   },
+  "icon": "clairvoyance-icon.png",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "xyz",
+        "label": "Clairvoyance Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/xyz-color-theme.json"
+        "path": "./themes/clairvoyance-theme-color-theme.json"
       }
     ]
   },
@@ -25,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dnlcorona/xyz-theme.git"
+    "url": "https://github.com/dnlcorona/clairvoyance-vscode-theme.git"
   }
 }
