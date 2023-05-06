@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/dnlcorona/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-dnlcorona-ffffff?style=social&logo=linkedin">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/VISUAL%20STUDIO%20MARKETPLACE-v1.0.0-ffffff?style=social">
   </a>
 </div>
 
@@ -17,8 +17,8 @@ Um tema do Visual Studio Code simples e moderno. Ajustado para melhorar a experi
 
 ## 🔥 Preview
 
-![First Screen](preview-screen-1.jpeg)
-![Second Screen](preview-screen-2.jpeg)
+![First Screen](preview-screen-1.png)
+![Second Screen](preview-screen-2.png)
 
 # Instalação
 
@@ -40,15 +40,7 @@ A fonte utilizada na imagem de preview é a Fira Code, [disponível aqui](https:
 "editor.fontLigatures": true,
 ```
 
-A imagem de preview está utilizando [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer), extensão que destaca colchetes correspondentes. Isso pode ajudar a reduzir possíveis erros.
-
-Segue configuração:
-
-```
-"bracketPairColorizer.forceIterationColorCycle": true,
-```
-
-![Bracket](bracket.png)
+Extensão de ícones utilizada no preview: [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme), extensão de ícones minimalista.
 
 
 ## 🚀 **Em constante evolução...**
