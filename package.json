@@ -1,0 +1,29 @@
+{
+  "name": "xyz-theme",
+  "displayName": "xyz-theme",
+  "description": "A dark theme with modern and simple interface that provides the user a great experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "xyz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xyz-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#050815",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnlcorona/xyz-theme.git"
+  }
+}
