@@ -17,7 +17,8 @@ Um tema do Visual Studio Code simples e moderno. Ajustado para melhorar a experi
 
 ## 🔥 Preview
 
-![First Screen](preview-screen.jpg)
+![First Screen](preview-screen-1.jpeg)
+![Second Screen](preview-screen-2.jpeg)
 
 # Instalação
 
