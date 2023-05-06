@@ -4,7 +4,6 @@
   "description": "A modern and simple dark theme for VS Code that provides the user a great experience.",
   "version": "1.0.1",
   "publisher": "dnlcorona",
-  "license": "SEE LICENSE IN LICENSE.md",
   "engines": {
     "vscode": "^1.77.0"
   },
