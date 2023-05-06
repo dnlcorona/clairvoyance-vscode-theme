@@ -2,12 +2,12 @@
 
 <h2 align="center">VSCode Dark Theme</h2>
 <div align="center">
-  <a href="https://github.com/dnlcorona">
+  <a href="https://github.com/dnlcorona" target="_blank">
     <img alt="Author Daniel Corona" src="https://img.shields.io/badge/Author%20-Daniel%20Corona-ffffff">
   </a>
 
-  <a href="https://www.linkedin.com/in/dnlcorona/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/VISUAL%20STUDIO%20MARKETPLACE-v1.0.0-ffffff?style=social">
+  <a href="https://marketplace.visualstudio.com/items?itemName=dnlcorona.clairvoyance-theme" target="_blank">
+    <img alt="Access the marketplace" src="https://img.shields.io/badge/VISUAL%20STUDIO%20MARKETPLACE-v1.0.0-ffffff?style=social">
   </a>
 </div>
 
