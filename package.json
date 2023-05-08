@@ -2,7 +2,7 @@
   "name": "clairvoyance-theme",
   "displayName": "Clairvoyance Theme",
   "description": "A modern and simple dark theme for VS Code that provides the user a great experience.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "dnlcorona",
   "engines": {
     "vscode": "^1.77.0"
