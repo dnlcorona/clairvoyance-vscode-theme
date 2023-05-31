@@ -2,7 +2,7 @@
   "name": "clairvoyance-theme",
   "displayName": "Clairvoyance Theme",
   "description": "A modern and simple dark theme for VS Code that provides the user a great experience.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "publisher": "dnlcorona",
   "engines": {
     "vscode": "^1.77.0"
@@ -25,6 +25,21 @@
         "label": "Clairvoyance Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/clairvoyance-theme-color-theme.json"
+      },
+      {
+        "label": "Clairvoyance Pastel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/clairvoyance-theme-color-theme-pastel.json"
+      },
+      {
+        "label": "Clairvoyance Grape",
+        "uiTheme": "vs-dark",
+        "path": "./themes/clairvoyance-theme-color-theme-grape.json"
+      },
+      {
+        "label": "Clairvoyance Carnaval",
+        "uiTheme": "vs-dark",
+        "path": "./themes/clairvoyance-theme-color-theme-carnaval.json"
       }
     ]
   },
