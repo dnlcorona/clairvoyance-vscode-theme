@@ -1,21 +1,20 @@
 # Clairvoyance Theme 🔮
 <h2 align="center">VSCode Dark Theme</h2>
-<br>
-<br>
 <div align="center">
   <a href="https://github.com/dnlcorona" target="_blank">
-    <img alt="Author - Daniel Corona" src="https://img.shields.io/badge/Author%20-Daniel%20Corona-050815">
+    <img alt="Author - Daniel Corona" src="https://img.shields.io/badge/Author%20-Daniel%20Corona-050815"> •
   </a>
 
   <a href="#Installation" target="_blank">
-    <img alt="License - MIT" src="https://img.shields.io/badge/License-v1.2.0-050815">
+    <img alt="License - MIT" src="https://img.shields.io/badge/License-v1.2.0-050815"> •
   </a>
 
   <a href="https://marketplace.visualstudio.com/items?itemName=dnlcorona.clairvoyance-theme" target="_blank">
     <img alt="Link to access the marketplace" src="https://img.shields.io/badge/-Visual%20Studio%20Marketplace-050815">
   </a>
 </div>
-
+<br>
+<br>
 <p align="center">
   <a href="#Installation">Install</a> •
   <a href="#license">License</a>
@@ -61,7 +60,7 @@ The preview image is using [Symbols](https://marketplace.visualstudio.com/items?
 
 ## License
 
-[MIT License](./LICENSE.md)
+[MIT License](./LICENSE)
 
 ## 🚀 **Em constante evolução...**
 
