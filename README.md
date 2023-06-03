@@ -1,9 +1,4 @@
-<h1>
-  <br>
-  <img src="./clairvoyance-icon.png" alt="Clairvoyance Logo" width="100">
-  <br>
-  Clairvoyance Theme 🔮
-</h1>
+<h1 align="center">Clairvoyance Theme 🔮</h1>
 
 <br>
 
