@@ -1,8 +1,9 @@
 <h1>
   <br>
   Clairvoyance Theme 🔮
-  <br>
 </h1>
+
+<br>
 
 <p align="center">
   <strong>VSCode Dark Theme</strong>
@@ -28,9 +29,6 @@
   <a href="#Installation">Install</a> •
   <a href="#license">License</a>
 </p>
-
-<br>
-<br>
 
 ## 💬 About
 
