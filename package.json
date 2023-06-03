@@ -1,45 +1,49 @@
 {
   "name": "clairvoyance-theme",
+  "version": "1.1.5",
   "displayName": "Clairvoyance Theme",
   "description": "A modern and simple dark theme for VS Code that provides the user a great experience.",
-  "version": "1.1.5",
   "publisher": "dnlcorona",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.77.0"
+    "vscode": "^1.13.0"
   },
   "icon": "clairvoyance-icon.png",
   "categories": [
     "Themes"
   ],
   "keywords": [
-    "Theme",
+		"theme",
+    "dark",
     "color-theme",
     "Dark Theme",
     "Night Theme",
-    "Accessible Theme",
     "Clairvoyance Theme"
   ],
+  "maintainers": [
+		"Daniel Corona <danielcorona313@gmail.com>"
+	],
   "contributes": {
     "themes": [
       {
-        "label": "Clairvoyance Theme",
+        "label": "Clairvoyance",
         "uiTheme": "vs-dark",
-        "path": "./themes/clairvoyance-theme-color-theme.json"
+        "path": "./themes/clairvoyance-theme.json"
       },
       {
         "label": "Clairvoyance Pinkish",
         "uiTheme": "vs-dark",
-        "path": "./themes/clairvoyance-theme-pinkish-color-theme.json"
+        "path": "./themes/clairvoyance-theme-pinkish.json"
       },
       {
         "label": "Clairvoyance Grape",
         "uiTheme": "vs-dark",
-        "path": "./themes/clairvoyance-theme-grape-color-theme.json"
+        "path": "./themes/clairvoyance-theme-grape.json"
       },
       {
-        "label": "Clairvoyance Alt",
+        "label": "Clairvoyance Elegant",
         "uiTheme": "vs-dark",
-        "path": "./themes/clairvoyance-theme-alt-color-theme.json"
+        "path": "./themes/clairvoyance-theme-elegant.json"
       }
     ]
   },
