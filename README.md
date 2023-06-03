@@ -1,6 +1,7 @@
-<h1>Clairvoyance Theme 🔮</h1>
-
-<br>
+<h1>
+  <br>
+  Clairvoyance Theme 🔮
+</h1>
 
 <p align="center">
   <strong>VSCode Dark Theme</strong>
