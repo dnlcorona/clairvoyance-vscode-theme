@@ -1,30 +1,42 @@
 # Clairvoyance Theme 🔮
-
 <h2 align="center">VSCode Dark Theme</h2>
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/dnlcorona" target="_blank">
-    <img alt="Author - Daniel Corona" src="https://img.shields.io/badge/Author%20-Daniel%20Corona-ffffff">
+    <img alt="Author - Daniel Corona" src="https://img.shields.io/badge/Author%20-Daniel%20Corona-050815">
+  </a>
+
+  <a href="#Installation" target="_blank">
+    <img alt="License - MIT" src="https://img.shields.io/badge/License-v1.2.0-050815">
   </a>
 
   <a href="https://marketplace.visualstudio.com/items?itemName=dnlcorona.clairvoyance-theme" target="_blank">
-    <img alt="Link to access the marketplace" src="https://img.shields.io/badge/VISUAL%20STUDIO%20MARKETPLACE-v1.1.0-ffffff?style=social">
+    <img alt="Link to access the marketplace" src="https://img.shields.io/badge/-Visual%20Studio%20Marketplace-050815">
   </a>
 </div>
 
-*This was based in my own personal taste.
+<p align="center">
+  <a href="#Installation">Install</a> •
+  <a href="#license">License</a>
+</p>
 
-## 📁 Projeto
+## 💬 About
 
-A simple and modern theme for Visual Studio Code. Adjusted to enhance the programming experience in low-light environments or for those who prefer a darker color theme. Color choices were made based on significant contrast for readability and optimal visual effect. ✨
+A simple and modern Visual Studio Code theme. Adjusted to enhance the programming experience in low-light environments or for those who prefer a darker color theme. The color choices were made based on meaningful contrast for readability and optimal visual effect. ✨
 
 ## 🔥 Preview
 
-![First Screen](preview-screen-1.png)
+### Default Theme
+![Default Screen](images/preview-theme.png)
+### Grape Theme
+![Grape Screen](images/preview-grape.png)
+### Elegant Theme
+![Elegant Screen](images/preview-elegant.png)
+### Pinkish Theme
+![Pinkish Screen](images/preview-pinkish.png)
 
-
-![Second Screen](preview-screen-2.png)
-
-# Installation
+## Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
@@ -45,8 +57,11 @@ The font used in the preview image is Fira Code, [available here](https://github
 "editor.fontLigatures": true,
 ```
 
-The preview image is using [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme), a minimalistic icon theme.
+The preview image is using [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols), a simple file icon theme for VS Code, and [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons).
 
+## License
+
+[MIT License](./LICENSE.md)
 
 ## 🚀 **Em constante evolução...**
 
