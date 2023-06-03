@@ -21,12 +21,16 @@
     <img alt="Link to access the marketplace" src="https://img.shields.io/badge/-Visual%20Studio%20Marketplace-050815">
   </a>
 </div>
+
 <br>
-<br>
+
 <p align="center">
   <a href="#Installation">Install</a> •
   <a href="#license">License</a>
 </p>
+
+<br>
+<br>
 
 ## 💬 About
 
