@@ -1,4 +1,4 @@
-<h1 align="center">Clairvoyance Theme 🔮</h1>
+<h1>Clairvoyance Theme 🔮</h1>
 
 <br>
 
